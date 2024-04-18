@@ -4,7 +4,6 @@ public class Tool {
 
     String nameOfTheTool;
 
-    String material;
 
     public Tool(String enteredNameOfTheTool){
         nameOfTheTool = enteredNameOfTheTool;

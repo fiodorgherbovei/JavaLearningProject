@@ -6,7 +6,6 @@ public class Worker {
 
     int yearOfExperience;
 
-    int pricePerHour;
 
     public Worker (String name ){
         this.name = name;
