@@ -12,6 +12,7 @@ public class Worker {
     }
 
     public Worker(){
+
         System.out.println("Welcome, good job, you are the best");
     }
 }
