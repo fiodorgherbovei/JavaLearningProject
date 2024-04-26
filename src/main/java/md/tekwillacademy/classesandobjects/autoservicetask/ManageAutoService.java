@@ -37,3 +37,5 @@ public class ManageAutoService {
 
     }
 }
+
+//suma numerelor pare pina la n.
